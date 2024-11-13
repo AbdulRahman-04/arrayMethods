@@ -11,4 +11,11 @@ let fruits = ['apple', 'banana', 'mango']
 // console.log(number.includes(10));
 // console.log(number.includes("10"));    //this array method strictly checks value and data type
 
-let myApps = ["instagram", "snapchat", "github", ]
+let myApps = ["instagram", "snapchat", "github", ];
+// console.log(myApps.includes("github"));
+
+let myGames = ["freefire", "cod", "wwe 2k16", "gow2018", "gow ragnarok"];
+// console.log(myGames.includes("gow2018"));
+
+let myCv  = ["name", "qaulification", "age", "marital status", "skills"]
+// console.log(myCv.includes("marital status"));
